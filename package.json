@@ -1,0 +1,11 @@
+{
+  "name": "multichain-dao-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nearuaguild/multichain-dao-scripts.git",
+  "author": "denbite <mirloxd3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.21.22"
+  }
+}
